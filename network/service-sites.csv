@@ -1,0 +1,10 @@
+site_id,site_name,zone,capacity,active,revision
+ST-ALP,Alpine Pantry,north,80,yes,1
+ST-BAY,Bay Table,coast,55,yes,1
+ST-CED,Cedar Kitchen,central,120,yes,1
+ST-DUN,Dune Hub,coast,40,no,2
+ST-ELM,Elm Corner,north,65,yes,1
+ST-FIR,Fir Hall,central,90,yes,1
+ST-BAY,Bay Table Annex,coast,60,yes,2
+ST-ALP,Alpine Pantry,north,75,yes,2
+ST-JET,Jetty Annex,coast,25,maybe,1
