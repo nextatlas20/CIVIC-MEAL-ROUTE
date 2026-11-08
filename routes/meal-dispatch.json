@@ -1,0 +1,55 @@
+{
+  "service_date": "2054-09-14",
+  "summary": {
+    "dispatched": 2,
+    "held": 1,
+    "standby": 2
+  },
+  "sites": [
+    {
+      "site_id": "ST-CED",
+      "site_name": "Cedar Kitchen",
+      "zone": "central",
+      "capacity": 120,
+      "posture": "hold",
+      "request_id": "—",
+      "priority": "—"
+    },
+    {
+      "site_id": "ST-BAY",
+      "site_name": "Bay Table Annex",
+      "zone": "coast",
+      "capacity": 60,
+      "posture": "dispatch",
+      "request_id": "MR-102",
+      "priority": "critical"
+    },
+    {
+      "site_id": "ST-ALP",
+      "site_name": "Alpine Pantry",
+      "zone": "north",
+      "capacity": 75,
+      "posture": "dispatch",
+      "request_id": "MR-101",
+      "priority": "high"
+    },
+    {
+      "site_id": "ST-ELM",
+      "site_name": "Elm Corner",
+      "zone": "north",
+      "capacity": 65,
+      "posture": "standby",
+      "request_id": "—",
+      "priority": "—"
+    },
+    {
+      "site_id": "ST-FIR",
+      "site_name": "Fir Hall",
+      "zone": "central",
+      "capacity": 90,
+      "posture": "standby",
+      "request_id": "—",
+      "priority": "—"
+    }
+  ]
+}
